@@ -19,7 +19,7 @@ This is a simple PHP web application for uploading files, built with Bootstrap f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/file-upload-web-app.git
+    git clone https://github.com/webserverdude/php-fileuploads.git
     ```
 
 2. Ensure that your web server is configured to serve PHP files.
